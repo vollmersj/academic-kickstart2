@@ -41,6 +41,8 @@ For students projects [please email me](mailto:sjvollmer@gmail.com), for an idea
 <h2> Application to Medicine </h2>
 <h3> PhD </h3>
 - Treatment selection using observational and trial data
+<h3> MSc/PhD </h3>
+- Risk prediction for rehabilitation from severe illnesses
 <h3> BSc/MSc </h3>
 - Modelling of capacity in healthcare setting
 
