@@ -13,10 +13,42 @@ title = "Teaching"
 # Order that this section will appear in.
 weight =  100
 
-#One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
+
 
 +++
-Please login to  
-[Warwick's Moodle Platform](https://moodle.warwick.ac.uk/)_
+Please login to [Warwick's Moodle Platform](https://moodle.warwick.ac.uk/)
+
+For students projects [please email me](mailto:sjvollmer@gmail.com), for an idea of potential projects consider the following list:
+
+<h2> Stochastic Processes </h2>
+<h3> PhD </h3>
+- Invariant distributions of interacting stochastic differential equaations
+<h3> BSc/MSc </h3>
+- Approximation of stochastic differential equation
+- Piecewise deterministic Markov Process and their applications
+- Probability measure valued SEIR model
+
+<h2> Methodolgy </h2>
+<h3> PhD </h3>
+- Posterior approximation based on gradient flows
+- Quasi-newton sampling techniques
+- Improved syn
+<h3> BSc/MSc </h3>
+- Hypothesis testing for Model comparison
+- Covariate Shift for Bayesian methodology
+- Interpretable machine learning 
+
+<h2> Application to Medicine </h2>
+<h3> PhD </h3>
+- Treatment selection using observational and trial data
+<h3> BSc/MSc </h3>
+- Modelling of capacity in healthcare setting
+
+
+
+
+
+
+
 
 
