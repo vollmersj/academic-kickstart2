@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor in statistics and mathematics in the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) and the [department of statistics](https://warwick.ac.uk/fac/sci/statistics/)  at Imperial College London.  I am also the director of data study groups at the [Alan Turing Institute](https://www.turing.ac.uk/) .  
+I am an associate professor in statistics and mathematics in the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) and the [department of statistics](https://warwick.ac.uk/fac/sci/statistics/)  at the University of Warwick.  I am also the director of data study groups at the [Alan Turing Institute](https://www.turing.ac.uk/). As well as a theme lead for the [health and medical sciences research programme](https://www.turing.ac.uk/research/research-programmes/health-and-medical-sciences).  
 My research interests lie at the interface of applied probability, computational statistics and machine learning, with a particular focus on industrial applications.  I've worked in application areas ranging from transport, energy, and in particular health and well-being.   
 
 Before joining the University of Warwick, I was a lecturer in Statistics at the University of Oxford.  Prior to this I undertook postdoctoral research with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/) (Oxford) and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) (Oxford).  I completed my PhD in September 2013 in Mathematics at the University of Warwick supervised by [Andrew Stuart](http://stuart.caltech.edu/) and [Martin Hairer](http://www.hairer.org/). 
