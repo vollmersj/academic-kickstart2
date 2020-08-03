@@ -18,10 +18,13 @@ weight = 99
 <h2>Postdocs</h2>
 
 2018-2020 : Gergo Bohner 
+
 2020 - : Gaurav Venkataraman 
+
 2015-2017 : Tigran Nagapetyan
 
 <h2> PhD Students </h2>
 
 2019 : Harrison Wilde
+
 2018  : Arne Gouwy
