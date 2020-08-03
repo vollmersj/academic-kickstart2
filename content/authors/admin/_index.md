@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sebastian Vollmer
+name: Sebastian Vollmer
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,63 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Statistics and Mathematics
+role: Associate Professor in Mathematics & Statistics 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Warwick & The Alan Turing Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests like at the interface of applied probability, statistical inference and machine learning.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+interests: 
+- Scalable Methods for Statistical Inference and Machine Learning.
+- Applications of Stats/ML to health and well being.
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mathematics
+    institution: University of Warwick
+  - course: MSc in Mathematics
+    institution: University of Warwick
+
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:sjvollmer@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=WoqSEpYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vollmersj
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sjvollmer/
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
+  
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an associate professor in statistics and mathematics in the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) and the [department of statistics](https://warwick.ac.uk/fac/sci/statistics/)  at Imperial College London.  I am also the director of data study groups at the [Alan Turing Institute](https://www.turing.ac.uk/) .  
+My research interests lie at the interface of applied probability, computational statistics and machine learning, with a particular focus on industrial applications.  I've worked in application areas ranging from transport, energy, and in particular health and well-being.   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining the University of Warwick, I was a lecturer in Statistics at the University of Oxford.  Prior to this I undertook postdoctoral research with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/) (Oxford) and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) (Oxford).  I completed my PhD in September 2013 in Mathematics at the University of Warwick supervised by [Andrew Stuart](http://stuart.caltech.edu/) and [Martin Hairer](http://www.hairer.org/). 
+
