@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests like at the interface of applied probability, statistical inference and machine learning.
+bio: My research interests lie at the interface of applied probability, statistical inference and machine learning.
 
 interests: 
 - Scalable Methods for Statistical Inference and Machine Learning.
